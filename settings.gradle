@@ -1,0 +1,2 @@
+rootProject.name='FirebaseAuthSample'
+include ':app'
